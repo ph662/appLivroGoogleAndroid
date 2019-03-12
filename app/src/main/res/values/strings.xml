@@ -11,4 +11,7 @@
     <string name="novo_gasto">Novo gasto</string>
     <string name="nova_viagem">Novo viagem</string>
 
+    <string name="minhas_viagens">Minhas viagens</string>
+    <string name="configuracoes">Configurações</string>
+
 </resources>
